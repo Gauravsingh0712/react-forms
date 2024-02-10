@@ -14,6 +14,7 @@ const App = () => {
   return (
     <div className="flex flex-col items-center mt-2">
       <form>
+        <br />
         <input
           type="text"
           name="firstName"
